@@ -17,6 +17,6 @@ Im am focusing on the right choice of encrypion, the understading of how it work
 </ul>
 <br>
 Its a simple program to understand how simple password hashing work in python and to be able to reuse the concept in other projects like websites.
-Also it gives me first insights into the world of secure coding, how password management works and why its important to encrypt password in projects. It helps me understandthe fundamentals of secure coding. This is important to my (hopefully) future as a CybeSecuritist.
+Also it gives me first insights into the world of secure coding, how password management works and why its important to encrypt password in projects. It helps me understandthe fundamentals of secure coding. This is important to my (hopefully) future as a CyberSec specialist.
 Maybe it also helps people who just started to understand the fundamentals, just like it helped me!
 
