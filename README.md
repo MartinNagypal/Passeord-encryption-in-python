@@ -11,8 +11,8 @@ Im am focusing on the right choice of encrypion, the understading of how it work
 <h3> What can the program do? </h3>
 <ul>
     <li> It contains a simple cli login/register program</li>
-    <li> It has Sqlite DB intergration to store password, username and creation date</li>
-    <li> It ecnrypts passwords using Argon2 to store them in the DB </li>
+    <li> It has Sqlite DB intergration to store passwords, usernames and creation dates</li>
+    <li> It encrypts passwords using Argon2 to store them in the DB </li>
     <li> The login feature checks if the user exists in the DB and if the password in the DB macthes the given password </li>
 </ul>
 <br>
